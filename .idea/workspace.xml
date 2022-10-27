@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3395cad7-a85b-4207-946a-3551b10710a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/GameCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/GameCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/KidsCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/KidsCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/ManCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/ManCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/WomanCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/..//java/AbstractClasses/src/PACKAGE_NAME/WomanCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/src/main/java/Kodlama/io/Devs/DevsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//kodlama.io.Dev/KodlamaIo.Devs/src/test/java/Kodlama/io/Devs/DevsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/..//rentACar/src/main/java/kodlama/io/rentACar/busssiness/abstracts/BrandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/..//rentACar/src/main/java/kodlama/io/rentACar/busssiness/abstracts/BrandService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../" value="fauture" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2GiSoJOffKxjbgzCtx2DqtZG1ec" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kodlama.io.Dev&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="DevsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kodlama.io.Devs.DevsApplication" />
+      <module name="kodlama.io.Dev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kodlama.io.Devs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DevsApplication" />
+        <item itemvalue="Application.DevsApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3395cad7-a85b-4207-946a-3551b10710a7" name="Changes" comment="" />
+      <created>1666870084418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666870084418</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="fauture" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Kodlama/io/Devs/bussiness/concretes/LanguageManager.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/Kodlama/io/Devs/dataAccess/abstracts/InMemoryLanguageRepository.java</url>
+          <line>15</line>
+          <properties field="languages" class="Kodlama.io.Devs.dataAccess.abstracts.InMemoryLanguageRepository" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
